@@ -14,3 +14,4 @@
                max = b;
            }
            Console.WriteLine("макс число :{0}", max);
+           Console.WriteLine("макс число :{0}", max);
